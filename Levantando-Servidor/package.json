@@ -1,0 +1,19 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "This repository contains my practices that I'm creating to learn Nodejs technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yayo22124/Learning-Nodejs.git"
+  },
+  "author": "Haziel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yayo22124/Learning-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Yayo22124/Learning-Nodejs#readme"
+}
